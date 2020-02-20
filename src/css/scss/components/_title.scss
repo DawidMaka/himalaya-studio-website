@@ -1,0 +1,10 @@
+.title {		
+	margin: 10rem 0 1.175rem;
+	font-size: $heading-m;
+}
+
+@media(min-width: 767px) {	
+	.title {	
+		font-size: $heading-l;		
+	}
+}
