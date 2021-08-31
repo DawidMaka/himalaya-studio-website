@@ -9,6 +9,6 @@ Technologies and tools I've used with this project:
   - Bootstrap 4
   - Javascript
 
-  Live: https://web-devvv.github.io/himalaya-studio-website/
+  Live: https://DawidMaka.github.io/himalaya-studio-website/
 
-  Src: https://github.com/web-deVVV/himalaya-studio-website/tree/master/src
+  Src: https://github.com/DawidMaka/himalaya-studio-website/tree/master/src
